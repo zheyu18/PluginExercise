@@ -1,0 +1,2 @@
+include ':app', ':lib_plugin_core', ':pluginapp'
+rootProject.name='PluginExercise'
